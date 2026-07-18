@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.3
 message: "If you use this software, please cite it as below."
 title: "Ground-Heat-Model: A 1D ground heat-transfer model for equivalent thermal properties of heterogeneous surfaces"
 authors:
