@@ -1,4 +1,4 @@
-cff-version: v1.0.4
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Ground-Heat-Model: A 1D ground heat-transfer model for equivalent thermal properties of heterogeneous surfaces"
 authors:
@@ -10,10 +10,6 @@ authors:
     given-names: Elie
     affiliation: "Department of Civil and Environmental Engineering, Princeton University"
     orcid: "https://orcid.org/0000-0002-6137-8109"
-version: v1.0.1
+version: v1.0.3
 date-released: "2026-07-18"
-license:
-  - PolyForm-Noncommercial-1.0.0
-  - CC-BY-NC-SA-4.0
 repository-code: "https://github.com/Erfan9877/Ground-Heat-Model"
-doi: 10.5281/zenodo.21434540
