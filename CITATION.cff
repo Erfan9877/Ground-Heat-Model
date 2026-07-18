@@ -10,6 +10,7 @@ authors:
     given-names: Elie
     affiliation: "Department of Civil and Environmental Engineering, Princeton University"
     orcid: "https://orcid.org/0000-0002-6137-8109"
-version: v1.0.3
+version: v1.0.4
 date-released: "2026-07-18"
+license: CC-BY-NC-SA-4.0
 repository-code: "https://github.com/Erfan9877/Ground-Heat-Model"
